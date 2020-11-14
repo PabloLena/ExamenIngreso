@@ -4,7 +4,7 @@
 No.
 
 ¿Cuándo utilizaría una Clase Abstracta en lugar de una Interfaz? Ejemplifique.
-Si se necesita que la Clase Abstracta tenga sus propias implementaciones de metodos.
+Si se necesita que la Clase tenga sus propias implementaciones de metodos.
 
 ¿Qué implica una relación de Generalización entre dos clases?
 Implica que una clase (clase derivada) hereda los métodos y atributos especificados por una clase (clase base).
